@@ -28,7 +28,9 @@ author1:
   social:
     email:             mza@seas.upenn.edu
     twitter:           shehzanm
-    github:            CIS5650-Fall-2025
+    # Data files are not run through Liquid, so this one has to be
+    # manually synced with `course_github_org` in `_config.yml`
+    github:            CIS5650-Fall-2026
     linkedin:          groups/6540935/
     # download:        <url>
     # rss:             https://<url>/feed.xml

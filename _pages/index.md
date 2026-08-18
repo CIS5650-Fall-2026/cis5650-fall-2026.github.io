@@ -1,26 +1,18 @@
 ---
 layout: page
-title: CIS 5650 GPU Programming and Architecture <br> Fall 2025
-description: >
-  Website for CIS 5650 GPU Programming and Architecture Fall 2025 at the University of Pennsylvania
 hide_description: true
 permalink: /
 ---
 
-[![team-1.gif](/assets/images/previous_projects/team-1.gif){:class="img-projects"}](https://cis5650-fall-2024.github.io/projects/)
-[![team-8.gif](/assets/images/previous_projects/team-8.gif){:class="img-projects"}](https://cis5650-fall-2024.github.io/projects/)
-[![team-9.jpg](/assets/images/previous_projects/team-9.jpg){:class="img-projects"}](https://cis5650-fall-2024.github.io/projects/)
-[![team-10.jpg](/assets/images/previous_projects/team-10.jpg){:class="img-projects"}](https://cis5650-fall-2024.github.io/projects/)
+{% assign prev_year = site.course_year | minus: 1 %}
+{% assign prev_site = "https://cis5650-fall-" | append: prev_year | append: ".github.io" %}
+
+[![team-1.gif](/assets/images/previous_projects/team-1.gif){:class="img-projects"}]({{ prev_site }}/projects/)
+[![team-8.gif](/assets/images/previous_projects/team-8.gif){:class="img-projects"}]({{ prev_site }}/projects/)
+[![team-9.jpg](/assets/images/previous_projects/team-9.jpg){:class="img-projects"}]({{ prev_site }}/projects/)
+[![team-10.jpg](/assets/images/previous_projects/team-10.jpg){:class="img-projects"}]({{ prev_site }}/projects/)
 
 ## Course Announcements
-
-### 2025-05-19: Course Waitlist
-
-Advance registration for CIS 5650 Fall 2025 is full. Please use the Course Waitlist to ensure that you are considered for the course and receive course communication ahead of the Fall semester. Additionally, complete the Student Survey linked below.
-
-### 2025-05-19: Student Survey (Required)
-
-All students who are interested in taking the course (registered, waitlisted, or otherwise) must **complete the [Student Survey](https://forms.cloud.microsoft/r/m4Z8DqTKfL)** as soon as possible. Failure to submit the survey before first day of class can jeopardize your registration for CIS 5650.
 
 ## Course Description
 
@@ -52,13 +44,13 @@ This is a project-intensive course with significant coding, writing, and present
 
 ### Student Survey (Required)
 
-**If you have registered as a student for the course, or plan to, please complete this required survey: [CIS 5650 Fall 2025 Student Survey](https://forms.cloud.microsoft/r/m4Z8DqTKfL).**
+**If you have registered as a student for the course, or plan to, please complete this required survey: [CIS 5650 Fall {{ site.course_year }} Student Survey]({{ site.course_survey_url }}).**
 
 ## Github, Schedule, Class Forum, and LinkedIn
 
 * **Classroom**: Berger Auditorium in Skirkanich Hall
-* [**Github**](https://github.com/CIS5650-Fall-2025){:target="_blank"}: fork your repos from here
-* [**Ed Discussions**](https://edstem.org/us/courses/81464/discussion): Class forum
+* [**Github**]({{ site.course_github_org }}){:target="_blank"}: fork your repos from here
+* [**Ed Discussions**]({{ site.course_forum_url }}): Class forum
   * Note: Ed Discussions requires being registered for the class for default access. If you need access for auditing, please reach out to the instructors.
 * [**LinkedIn Group**](https://www.linkedin.com/groups/6540935/){:target="_blank"}: for networking with current and previous course students
 

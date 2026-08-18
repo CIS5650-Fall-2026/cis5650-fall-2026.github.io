@@ -1,10 +1,36 @@
+# Semester
+# ========================================================================================
+# When initializing this repo for a new semester, update this block plus `social.github`
+# in `_data/authors.yml` (Jekyll runs no Liquid in data files, and YAML aliases cannot
+# cross files, so that one value has to be kept in sync by hand). Everything else on the
+# site derives from the values below, either through YAML aliases (`*name`) further down
+# in this file or through Liquid (`{{ site.course_year }}`) in the pages.
+
+course_year:           2026
+course_site_url:       &course_site_url https://cis5650-fall-2026.github.io
+course_github_org:     &course_github_org https://github.com/CIS5650-Fall-2026
+course_title:          &course_title CIS 5650 GPU Programming and Architecture <br> Fall 2026
+course_forum_url:      &course_forum_url https://edstem.org/us/courses/101383/discussion
+course_survey_url:     https://forms.cloud.microsoft/r/m4Z8DqTKfL
+course_description:    &course_description >
+  Website for CIS 5650 GPU Programming and Architecture Fall 2026 at the University of Pennsylvania
+course_tagline:        &course_tagline >
+  Fall 2026<br>
+  University of Pennsylvania<br>
+  [Computer Graphics @ Penn](http://cg.cis.upenn.edu/index.html)
+
+# The year the site URL scheme changed from cis565-fall-<year> to cis5650-fall-<year>.
+# Used to build the archive list on the "Previous Semesters" page.
+course_rename_year:    2024
+
+
 # Config
 # ========================================================================================
 
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://cis5650-fall-2025.github.io
+url:                   *course_site_url
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -23,14 +49,10 @@ title:                 CIS 5650 <br> GPU Programming and Architecture
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
-description:           >
-  Website for CIS 5650 GPU Programming and Architecture Fall 2025 at the University of Pennsylvania
+description:           *course_description
 
 # A shorter description for the sidebar.
-tagline:               >
-  Fall 2025<br>
-  University of Pennsylvania<br>
-  [Computer Graphics @ Penn](http://cg.cis.upenn.edu/index.html)
+tagline:               *course_tagline
 
 # A list of keywords for your blog
 keywords:              []
@@ -45,11 +67,11 @@ menu:
   - title:             Course Syllabus and Schedule
     url:               /syllabus/
   - title:             GitHub - Course Projects
-    url:               https://github.com/CIS5650-Fall-2025/
+    url:               *course_github_org
   - title:             Student Work
     url:               /projects/
   - title:             Ed Discussion - Class Forum
-    url:               https://edstem.org/us/courses/81464/discussion
+    url:               *course_forum_url
   - title:             Hardware and Software Setup
     url:               /setup/
   - title:             Previous Semesters
@@ -96,6 +118,13 @@ font:                  Noto Sans, Helvetica, Arial, sans-serif
 font_heading:          Roboto Slab, Helvetica, Arial, sans-serif
 
 defaults:
+  # Front matter is not run through Liquid, so the home page title/description are
+  # supplied here instead of in `_pages/index.md`.
+  - scope:
+      path:            "_pages/index.md"
+    values:
+      title:           *course_title
+      description:     *course_description
   # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
   # but we want them to be `WebPage`s:
   - scope:
