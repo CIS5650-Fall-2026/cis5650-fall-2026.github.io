@@ -9,7 +9,7 @@ permalink: /syllabus/
 
 ## Schedule
 
-<iframe width="1200" height="900" frameborder="5" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRS7pcpl_fUo2jw9p0haTQlfA3hR_YHVmnG8IgIsIws9kZF9Pze7RXEnPh6gpkIkSvVVj7PyvJogGWb/pubhtml&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="1200" height="900" frameborder="5" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRS7pcpl_fUo2jw9p0haTQlfA3hR_YHVmnG8IgIsIws9kZF9Pze7RXEnPh6gpkIkSvVVj7PyvJogGWb/pubhtml?widget=true&amp;headers=false"></iframe>
 
 ## Course Topics
 
