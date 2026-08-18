@@ -58,47 +58,16 @@ This is a project-intensive course with significant coding, writing, and present
 
 Changes to office hour schedule will be made on this schedule and notified through Class Forum (Ed Discussion).
 
-### [Shehzan Mohammed](https://www.linkedin.com/in/shehzan-mohammed/){:target="_blank"} mza@seas.upenn.edu
+### [Matt Schwartz](https://www.linkedin.com/in/matthew-schwartz-37019016b/){:target="_blank"} schwarm5@engineering.upenn.edu
 
 Office Hours:
 
 * 4-5pm prior to class on class days and 30 minutes following the end of class; Held adjacent to Berger Auditorium.
 * By appointment (email me) - For interviewing, career, or other mentorship advice;
 
-![Shehzan Mohammed](/assets/images/headshots/shehzan_mohammed.jpg){:class="img-headshots"}
+![Matt Schwartz](/assets/images/headshots/matt_schwartz.jpg){:class="img-headshots"}
 
 ## Teaching Assistants
-
-### [Paulina Tao](){:target="_blank"} tpaulina@seas.upenn.edu
-
-Office Hours:
-
-* Monday - 1:00pm - 3:00pm
-* Levine 057
-
-![Paulina Tao](/assets/images/headshots/paulina_tao.jpg){:class="img-headshots"}
-
-### [Ruipeng Wang](){:target="_blank"} ruipeng@sas.upenn.edu
-
-Office Hours:
-
-* Thursday - 3:30pm - 5:00pm
-* Levine 057
-
-![Ruipeng Wang](/assets/images/headshots/ruipeng_wang.jpg){:class="img-headshots"}
-
-### [Zixiao Wang](){:target="_blank"} zixiaow@seas.upenn.edu
-
-Office Hours:
-
-* Wednesday - 1:00pm - 2:30pm
-* Levine 057
-
-![Zixiao Wang](/assets/images/headshots/zixiao_wang.jpg){:class="img-headshots"}
-
-### [Daniel Zhong](){:target="_blank"} dzhong@seas.upenn.edu
-
-![Daniel Zhong](/assets/images/headshots/daniel_zhong.jpg){:class="img-headshots"}
 
 ## Recommended Reading
 
@@ -144,13 +113,14 @@ If you think you need to ask permission, you should ask. We will most likely app
 
 ## Acknowledgments
 
-[Joe Kider](http://www.josephkider.com/), [Gary Katz](http://www.linkedin.com/pub/gary-katz/3/a40/a1b), and [Suresh Venkatasubramanian](http://www.cs.utah.edu/~suresh/web/) taught this course before me.
+[Shehzan Mohammed](https://www.linkedin.com/in/shehzan-mohammed/), [Patrick Cozzi](https://www.linkedin.com/in/patrickcozzi/), [Joe Kider](http://www.josephkider.com/), [Gary Katz](http://www.linkedin.com/pub/gary-katz/3/a40/a1b), and [Suresh Venkatasubramanian](http://www.cs.utah.edu/~suresh/web/) taught this course before me.
 
 All former TAs have helped shape this course:
 
 |---|---|---|
-| [Han "Andrew" Yang](https://www.linkedin.com/in/andrew-han-yang-0031231a3) | [Xiaoxiao  "Crytal" Zou](https://www.linkedin.com/in/xiaoxiao-zou-23482a1b9/) | [Aditya Gupta](https://www.linkedin.com/in/aditya-gupta1/) |
+| [Paulina Tao](https://www.linkedin.com/in/xinran-tao/) | [Ruipeng Wang](https://www.linkedin.com/in/ruipeng-wang-681b89287/) | [Zixiao Wang](https://www.linkedin.com/in/zixiao-w-826a5a255/) |
 | [Daniel Zhong](https://www.linkedin.com/in/danielzhong-/) | | |
+| [Han "Andrew" Yang](https://www.linkedin.com/in/andrew-han-yang-0031231a3) | [Xiaoxiao  "Crytal" Zou](https://www.linkedin.com/in/xiaoxiao-zou-23482a1b9/) | [Aditya Gupta](https://www.linkedin.com/in/aditya-gupta1/) |
 | [Chang Liu](https://www.linkedin.com/in/chang-liu-0451a6208/) | [Shutong Wu](https://www.linkedin.com/in/shutong-wu-214043172/) | [Shixuan Fang](https://www.linkedin.com/in/shixuan-fang-4aba78222/) |
 | [Shubham Sharma](https://www.linkedin.com/in/codeshubham/) | [Rachel Gu](https://www.linkedin.com/in/rgu/) | |
 | [Janine Liu](https://www.janineliu.com/) | [Liam Dugan](http://liamdugan.com/) | [Wayne Wu](https://www.wuwayne.com) |
