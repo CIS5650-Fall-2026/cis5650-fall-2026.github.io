@@ -2,10 +2,6 @@ email:
   name: Email
   icon: icon-mail
   prepend: 'mailto:'
-twitter:
-  name: Twitter
-  icon: icon-twitter
-  prepend: 'https://twitter.com/'
 github:
   name: GitHub
   icon: icon-github

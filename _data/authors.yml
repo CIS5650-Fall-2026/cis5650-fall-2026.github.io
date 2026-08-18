@@ -26,8 +26,7 @@ author1:
   # Social media icons in sidebar.
   # Comment/uncomment to show/hide. Rearrange to change the order in which they appear.
   social:
-    email:             mza@seas.upenn.edu
-    twitter:           shehzanm
+    email:             schwarm5@engineering.upenn.edu
     # Data files are not run through Liquid, so this one has to be
     # manually synced with `course_github_org` in `_config.yml`
     github:            CIS5650-Fall-2026
