@@ -42,10 +42,6 @@ This is a project-intensive course with significant coding, writing, and present
   * CIS 3800: Operating Systems
   * CIS 5010: Computer Architecture
 
-### Student Survey (Required)
-
-**If you have registered as a student for the course, or plan to, please complete this required survey: [CIS 5650 Fall {{ site.course_year }} Student Survey]({{ site.course_survey_url }}).**
-
 ## Github, Schedule, Class Forum, and LinkedIn
 
 * **Classroom**: Berger Auditorium in Skirkanich Hall
