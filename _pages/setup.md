@@ -25,3 +25,4 @@ Follow the link that is most right for you:
 
 * [I have my own personal computer running **Windows 11 with a compatible NVIDIA GPU**](/setup-windows/).
 * [I have my own personal computer running **Linux with a compatible NVIDIA GPU**](/setup-linux/).
+* [I'll use **CETS Virtual Lab Computers** Remotely](/setup-cets/).
