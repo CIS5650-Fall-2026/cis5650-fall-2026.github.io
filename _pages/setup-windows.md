@@ -23,8 +23,8 @@ This guide assumes that you have admin access to your computer.
         * Configuring experimental options: Select `Enable experimental support for pseudo consoles`.
     * After installation, follow the [**First Time Git Setup**](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) Guide if this is the first time you are using Git.
 3. Install **Visual Studio 2022**. We recommend (but not require) that you wipe out any old versions of Visual Studio (2019 and below). See [Visual Studio Uninstaller](https://github.com/Microsoft/VisualStudioUninstaller/releases) for help.
-    * You can use the [Visual Studio Website](https://visualstudio.microsoft.com/), or [Penn's Microsoft Education Portal](http://www.seas.upenn.edu/cets/software/msdn/).
-    * Make sure this ends up installing the `Visual Studio Installer` so you can select the packages you want.
+    * Visual Studio 2022 (Community Edition) is no longer offered publicly by Microsoft. Meanwhile, Visual Studio 2026 does not yet fully support CUDA. If you do not already have VS2022 installed locally, you can still download the executable directly by clicking [here](https://aka.ms/vs/17/release/vs_community.exe).
+    * Alternatively, you can download VS2022 Enterprise from [Microsoft Azure for Students](https://cets.engineering.upenn.edu/answers/azure.html).
     * Once in the installer, do the following
         * Under the `Workloads` tab, select `Desktop Development with C++`. This will select almost everything you will need.
         * Under the `Individual Components Tab`, make sure these packages are selected. **DO NOT uncheck** everything else.
