@@ -67,13 +67,17 @@ Office Hours:
 
 ### [Bryce Joseph](https://www.linkedin.com/in/brycejoseph/){:target="_blank"} brycejo@engineering.upenn.edu
 
-Office hours: (TBD)
+Office hours:
+- Monday - 1:00pm - 3:00pm
+- Levine 057
 
 ![Bryce Joseph](/assets/images/headshots/bryce_joseph.jpg){:class="img-headshots"}
 
 ### [Saahil Gupta](https://www.linkedin.com/in/saahil-g/){:target="_blank"} saahil@engineering.upenn.edu
 
-Office hours: (TBD)
+Office hours:
+- Wednesday - 1:00pm - 3:00pm
+- Levine 057
 
 ![Saahil Gupta](/assets/images/headshots/saahil_gupta.png){:class="img-headshots"}
 
@@ -82,6 +86,10 @@ Office hours: (TBD)
 Office hours: (TBD)
 
 ![Anthony Ge](/assets/images/headshots/anthony_ge.jpg){:class="img-headshots"}
+
+### [Anya Agarwal](https://www.linkedin.com/in/anya-agarwal/){:target="_blank"} anya04@engineering.upenn.edu
+
+![Anya Agarwal](/assets/images/headshots/anya_agarwal.jpg){:class="img-headshots"}
 
 ## Recommended Reading
 
