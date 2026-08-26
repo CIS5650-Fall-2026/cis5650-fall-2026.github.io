@@ -65,6 +65,24 @@ Office Hours:
 
 ## Teaching Assistants
 
+### [Bryce Joseph](https://www.linkedin.com/in/brycejoseph/){:target="_blank"} brycejo@engineering.upenn.edu
+
+Office hours: (TBD)
+
+![Bryce Joseph](/assets/images/headshots/bryce_joseph.jpg){:class="img-headshots"}
+
+### [Saahil Gupta](https://www.linkedin.com/in/saahil-g/){:target="_blank"} saahil@engineering.upenn.edu
+
+Office hours: (TBD)
+
+![Saahil Gupta](/assets/images/headshots/saahil_gupta.png){:class="img-headshots"}
+
+### [Anthony Ge](https://www.linkedin.com/in/anthonyge/){:target="_blank"} geant@engineering.upenn.edu
+
+Office hours: (TBD)
+
+![Anthony Ge](/assets/images/headshots/anthony_ge.jpg){:class="img-headshots"}
+
 ## Recommended Reading
 
 * [Moving Graphics Research into Development](http://www.realtimerendering.com/blog/4472-2/), Patrick Cozzi
