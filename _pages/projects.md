@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CIS 5650 - Student Projects
+title: CIS 5650 (Fall 2025) - Student Projects
 description: >
   Student Projects
 hide_description: true

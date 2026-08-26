@@ -8,9 +8,9 @@ permalink: /
 {% assign prev_site = "https://cis5650-fall-" | append: prev_year | append: ".github.io" %}
 
 [![team-1.gif](/assets/images/previous_projects/team-1.gif){:class="img-projects"}]({{ prev_site }}/projects/)
+[![team-2.gif](/assets/images/previous_projects/team-2.gif){:class="img-projects"}]({{ prev_site }}/projects/)
+[![team-5.png](/assets/images/previous_projects/team-5.png){:class="img-projects"}]({{ prev_site }}/projects/)
 [![team-8.gif](/assets/images/previous_projects/team-8.gif){:class="img-projects"}]({{ prev_site }}/projects/)
-[![team-9.jpg](/assets/images/previous_projects/team-9.jpg){:class="img-projects"}]({{ prev_site }}/projects/)
-[![team-10.jpg](/assets/images/previous_projects/team-10.jpg){:class="img-projects"}]({{ prev_site }}/projects/)
 
 ## Course Announcements
 
