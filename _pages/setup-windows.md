@@ -40,7 +40,7 @@ This guide assumes that you have admin access to your computer.
 4. Install the latest version of [**CUDA**](https://developer.nvidia.com/cuda-downloads) (minimum version CUDA 13).
 5. Install Nsight Compute, Nsight Graphics, and Nsight Systems from [https://developer.nvidia.com/nsight-tools-visual-studio-integration](https://developer.nvidia.com/nsight-tools-visual-studio-integration).
 6. Install [**CMake 4.x**](http://www.cmake.org/download/). Windows binaries are under `Binary distributions`.
-7. Install [Visual C++ Redistributable 2015/17/19/22](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Note: there are 2 different install files for 2015/17/19/22 and for 2013 - you need to install 2015/17/19/22.
+7. Install the latest [Visual C++ Redistributable](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#latest-supported-redistributable-version). This single "v14" package covers Visual Studio 2017 through 2026. On the linked page, download the **X64** package under `Latest supported redistributable version` (older 2015/2013 packages listed under legacy versions are not needed).
 8. (_Optional_) Download [**GPU-Z**](https://www.techpowerup.com/download/techpowerup-gpu-z/). You can either install it, or run it as a portable executable. This provides useful information about your GPU and technologies it supports.
     ![gpu-z](/assets/images/screenshots/gpu-z.jpg)
 
