@@ -20,7 +20,6 @@ This guide assumes that you have admin access to your computer.
         * Configuring the line ending conversion: Select `Checkout as-is, commit as-is`. Shehzan uses this option because he also changes all his preferred editors to use Unix line endings. If you do not want to change your editors, select `Checkout as-is, coming Unix-style line endings`.
         * Configuring the terminal emulator to use with Git Base: `Use Windows' default console window`.
         * Configuring extra options: Select `Enable symbolic links` in addition to default options.
-        * Configuring experimental options: Select `Enable experimental support for pseudo consoles`.
     * After installation, follow the [**First Time Git Setup**](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) Guide if this is the first time you are using Git.
 3. Install **Visual Studio 2022**. We recommend (but not require) that you wipe out any old versions of Visual Studio (2019 and below). See [Visual Studio Uninstaller](https://github.com/Microsoft/VisualStudioUninstaller/releases) for help.
     * Visual Studio 2022 (Community Edition) is no longer offered publicly by Microsoft. Meanwhile, Visual Studio 2026 does not yet fully support CUDA. If you do not already have VS2022 installed locally, you can still download the executable directly by clicking [here](https://aka.ms/vs/17/release/vs_community.exe).
@@ -28,15 +27,11 @@ This guide assumes that you have admin access to your computer.
     * Once in the installer, do the following
         * Under the `Workloads` tab, select `Desktop Development with C++`. This will select almost everything you will need.
         * Under the `Individual Components Tab`, make sure these packages are selected. **DO NOT uncheck** everything else.
-            * Visual Studio 2022 (in addition to above components for 2019 which are available for VS 2022):
-                * MSVC v142 - VS 2019 C++ x64/x86 build tools - Allows you to build VS 2019 projects using VS 2022
-                * C++ ATL for v141 build tools (x86 & x64)
-                * Windows 10 SDK (10.0.17763.0)
-                * Windows 10 SDK (10.0.18362.0)
-                * Windows 10 SDK (10.0.19041.0)
-                * Windows 10 SDK (10.0.22621.0)
-                * Windows 10 SDK (10.0.22000.0)
-                * Windows 10 SDK (10.0.20348.0)
+            * MSVC v143 - VS 2022 C++ x64/x86 build tools
+            * C++ ATL for latest v143 build tools (x86 & x64)
+            * Windows 11 SDK (10.0.22621.0)
+            * Windows 11 SDK (10.0.26100.7705)
+            * Windows 10 SDK (10.0.19041.0)
 4. Install the latest version of [**CUDA**](https://developer.nvidia.com/cuda-downloads) (minimum version CUDA 13).
 5. Install Nsight Compute, Nsight Graphics, and Nsight Systems from [https://developer.nvidia.com/nsight-tools-visual-studio-integration](https://developer.nvidia.com/nsight-tools-visual-studio-integration).
 6. Install [**CMake 4.x**](http://www.cmake.org/download/). Windows binaries are under `Binary distributions`.
