@@ -83,7 +83,9 @@ Office hours:
 
 ### [Anthony Ge](https://www.linkedin.com/in/anthonyge/){:target="_blank"} geant@engineering.upenn.edu
 
-Office hours: (TBD)
+Office hours:
+- Tuesday - 1:00pm - 3:00pm
+- Levin 057
 
 ![Anthony Ge](/assets/images/headshots/anthony_ge.jpg){:class="img-headshots"}
 
